@@ -1,1 +1,1 @@
-data se link : https://www.kaggle.com/datasets/salader/dogs-vs-cats
+data set link : https://www.kaggle.com/datasets/salader/dogs-vs-cats
